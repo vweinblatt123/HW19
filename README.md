@@ -1,5 +1,4 @@
-# HW19
-HW19 - Multi-Blockchain Wallet in Python
+# HW19 - Multi-Blockchain Wallet in Python
 
 *eth transaction*
 
